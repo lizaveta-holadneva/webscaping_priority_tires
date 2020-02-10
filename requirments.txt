@@ -1,0 +1,5 @@
+psycopg2==2.7.5
+requests==2.21.0
+bs4==0.0.1
+selenium==3.141.0
+webdriver-manager==2.3.0 #oprional
