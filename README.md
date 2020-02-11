@@ -1,7 +1,7 @@
 # Web scaping of priority tires website
 Web scarping of B2B platform Priority Tires.
 
-Requirments file has all the libraries which should be installed. Configuration file has connection details for MySQL Database, Proxy and list of sizes for scaping.
+Requirments file has all the libraries which should be installed. Configuration file has connection details for Redshift Database, Proxy and list of sizes for scaping.
 
 ### Installing
 pip3 install -r requirements.txt <br>
